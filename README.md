@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stradivari1390
 - 👀 I’m interested in partisipatig in interesting projects
-- 🌱 I’m currently learning Java Development, Enterprise technologies, Framework Spring
-- 💞️ I’m looking to collaborate on Java backend projects
+- 🌱 I’m currently working on backend development with Spring framework
+- 💞️ I’m looking to collaborate on Java backend projects as well
 - 📫 How to reach me stradivari1390@gmail.com
 
 <!---
